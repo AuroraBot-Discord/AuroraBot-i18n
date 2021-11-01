@@ -1,0 +1,12 @@
+{
+  "botAddDMTitle": ":tada: 導入ありがとうございます！",
+  "botAddDMDescription": "{1}を{2}に導入していただき、ありがとうございます！\n早速ですが、このサーバーでやっておいたほうがいいことを紹介しておきます！",
+  "noCommandTitle": ":x:コマンドがありません",
+  "noCommandDescription": "そのコマンドは存在しません。",
+  "startingTitle": ":timer:起動中",
+  "startingDescription": "現在起動中です。\n起動完了までしばらくお待ち下さい。",
+  "guildOnlyTitle": ":jigsaw:サーバー内専用コマンド",
+  "guildOnlyDescription": "このコマンドはサーバー内でしか使用できません。",
+  "missingPermissionsTitle": ":toolbox:権限不足",
+  "missingPermissionsDescription": "あなたにこのコマンドを実行する権限がありません。\nこのコマンドを実行するにはあなたに`{1}`の権限が必要です。"
+}
